@@ -1,0 +1,19 @@
+{
+  "name": "Homepage",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "main-index",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "main"
+  ]
+} 
